@@ -1,4 +1,4 @@
-package com.springbokk.biz;
+package com.springbook.biz;
 
 import java.text.DateFormat;
 import java.util.Date;
